@@ -18,7 +18,7 @@ public class CalculateArea {
 				
 		int areasquare = num * num;
 		
-		System.out.println("Area of Sauare is "+ areasquare);
+		System.out.println("Area of Square is "+ areasquare);
 
 	}
 
