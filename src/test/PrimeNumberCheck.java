@@ -12,7 +12,7 @@ public class PrimeNumberCheck {
 	    for (int i=2;i<=num/2;i++) {
 	      // condition for non prime number
 	      if (num % i == 0) {
-	        flag = true;
+	        flag = false;
 	        break;
 	      }
 	    }
